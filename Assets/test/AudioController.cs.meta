@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c67892881031a5d4886a0f7ac7c3e5a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sliderMaster: {instanceID: 0}
+  - sliderMusic: {instanceID: 0}
+  - sliderSound: {instanceID: 0}
+  - audioMixer: {fileID: 24100000, guid: 8234cebc80cef2545b877eef96593eb9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Enemy
+  - Trap
+  - Ground
+  - Platform
+  - Ladder
+  - Terrain
+  - EnemyRanged
+  - PlayerWeapon
+  - CameraConfiner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - OnlyTerrainColide
+  - Water
+  - UI
+  - SolidObject
+  - Trap
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackgroundRock
+    uniqueID: 2149360281
+    locked: 0
+  - name: BackgroundGrass
+    uniqueID: 2036586901
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3837736179
+    locked: 0

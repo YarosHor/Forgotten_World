@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ff92494fcc4eabe44aa0b2aa31ecf12a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dirtTilemap: {instanceID: 0}
+  - grassTilemap: {instanceID: 0}
+  - stoneTilemap: {instanceID: 0}
+  - dirt: {fileID: 11400000, guid: 493ff86ec9bada04eb061505cdec7764, type: 2}
+  - grass: {fileID: 11400000, guid: 88478d82e09fd6a4ab7babddf03ec9f7, type: 2}
+  - stone: {fileID: 11400000, guid: 4b44b6fbc406a1842a47c9dd05b41920, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
